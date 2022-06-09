@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\1 -BACKEND\\C SHARP\\1- C SHARP API\\aula_api\\aula_api.csproj": {}
+    "C:\\Projetos\\1 -BACKEND\\C SHARP\\1- C SHARP API\\AULA_API\\aula_api.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\1 -BACKEND\\C SHARP\\1- C SHARP API\\aula_api\\aula_api.csproj": {
+    "C:\\Projetos\\1 -BACKEND\\C SHARP\\1- C SHARP API\\AULA_API\\aula_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\1 -BACKEND\\C SHARP\\1- C SHARP API\\aula_api\\aula_api.csproj",
+        "projectUniqueName": "C:\\Projetos\\1 -BACKEND\\C SHARP\\1- C SHARP API\\AULA_API\\aula_api.csproj",
         "projectName": "aula_api",
-        "projectPath": "C:\\Projetos\\1 -BACKEND\\C SHARP\\1- C SHARP API\\aula_api\\aula_api.csproj",
+        "projectPath": "C:\\Projetos\\1 -BACKEND\\C SHARP\\1- C SHARP API\\AULA_API\\aula_api.csproj",
         "packagesPath": "C:\\Users\\tiagolopes\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\1 -BACKEND\\C SHARP\\1- C SHARP API\\aula_api\\obj\\",
+        "outputPath": "C:\\Projetos\\1 -BACKEND\\C SHARP\\1- C SHARP API\\AULA_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiagolopes\\AppData\\Roaming\\NuGet\\NuGet.Config",
